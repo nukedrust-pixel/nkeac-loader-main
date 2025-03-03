@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Config 1",
+        "detail": "This is the first configuration with basic settings.",
+        "downloadLink": "https://github.com/your/repo/raw/main/config1.json"
+    },
+    {
+        "name": "Config 2",
+        "detail": "This configuration is optimized for performance.",
+        "downloadLink": "https://github.com/your/repo/raw/main/config2.json"
+    },
+    {
+        "name": "Config 3",
+        "detail": "This configuration includes advanced features.",
+        "downloadLink": "https://github.com/your/repo/raw/main/config3.json"
+    },
+    {
+        "name": "Config 4",
+        "detail": "This configuration is designed for competitive play.",
+        "downloadLink": "https://github.com/your/repo/raw/main/config4.json"
+    },
+    {
+        "name": "Config 5",
+        "detail": "This configuration focuses on visual enhancements.",
+        "downloadLink": "https://github.com/your/repo/raw/main/config5.json"
+    }
+]
