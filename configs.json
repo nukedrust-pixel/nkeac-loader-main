@@ -1,27 +1,17 @@
 [
     {
+        "name": "Default",
+        "detail": "Default Config With 0 Values",
+        "downloadLink": "https://raw.githubusercontent.com/nukedrust-pixel/nkeac-loader-main/refs/heads/main/configs/Default.json"
+    },
+    {
         "name": "Official Nkeac Legit",
         "detail": "Official Legit Config From Nkeac Team",
-        "downloadLink": "https://github.com/your/repo/raw/main/Legit.json"
+        "downloadLink": "https://raw.githubusercontent.com/nukedrust-pixel/nkeac-loader-main/refs/heads/main/configs/Official Nkeac Legit.json"
     },
     {
         "name": "Official Nkeac Rage",
-        "detail": "Official Legit Config From Nkeac Team",
-        "downloadLink": "https://github.com/your/repo/raw/main/Rage.json"
-    },
-    {
-        "name": "Config 3",
-        "detail": "This configuration includes advanced features.",
-        "downloadLink": "https://github.com/your/repo/raw/main/config3.json"
-    },
-    {
-        "name": "Config 4",
-        "detail": "This configuration is designed for competitive play.",
-        "downloadLink": "https://github.com/your/repo/raw/main/config4.json"
-    },
-    {
-        "name": "Config 5",
-        "detail": "This configuration focuses on visual enhancements.",
-        "downloadLink": "https://github.com/your/repo/raw/main/config5.json"
+        "detail": "Official Rage Config From Nkeac Team",
+        "downloadLink": "https://raw.githubusercontent.com/nukedrust-pixel/nkeac-loader-main/refs/heads/main/configs/Official Nkeac Rage.json"
     }
 ]
