@@ -1,0 +1,26 @@
+{
+    "Aimbot": {
+        "LegitAimBot": false,
+        "fovRadius": 0.0,
+        "selectedBoneIndex": 0
+    },
+    "ESP": {
+        "DrawAdminPlayers": false,
+        "DrawIncapacitatedPlayers": false,
+        "DrawMainEsp": false,
+        "DrawPlayerWeapons": false,
+        "DrawSafeZonePlayers": false,
+        "DrawSkeleton": false,
+        "DrawSpectatingPlayers": false,
+        "DrawWoundedPlayers": false,
+        "IgnoreSleepers": false,
+        "OffScreenIndicator": false,
+        "PlayerBox": false,
+        "PlayerChams": false,
+        "TraceMovement": false
+    },
+    "Exploits": {
+        "DistanceWarning": false,
+        "FakeAdmin": false
+    }
+}
